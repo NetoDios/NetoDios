@@ -21,9 +21,9 @@ Actualmente estoy retomando mis estudios de en Programacion Competitiva y partic
   *  **Node**
   *  **Flask**
 *  Database
- *  **SQL**
- *  **FireBase**
- *  **Mongo**
+    *  **SQL**
+    *  **FireBase**
+    *  **Mongo**
 
 Bienvenido a mi perfil, sientete libre de ver mis proyectos.
 
