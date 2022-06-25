@@ -26,6 +26,6 @@ Actualmente estoy retomando mis estudios de en Programacion Competitiva y partic
     *  **Mongo**
 
 Bienvenido a mi perfil, sientete libre de ver mis proyectos.
-<!--
+
 ![meme si soy](https://cdn.discordapp.com/attachments/839919992765153281/988502813627777054/unknown.png)
--->
+
